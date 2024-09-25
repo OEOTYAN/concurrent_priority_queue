@@ -1,6 +1,6 @@
 add_repositories("oeo-repo https://github.com/OEOTYAN/xmake-repo.git")
 
-add_requires("outility v0.1.0")
+add_requires("outility v0.1.1")
 
 target("concurrent_priority_queue")
     set_kind("headeronly")
